@@ -25,35 +25,35 @@ header ul {
 
 header ul li {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 20px;
 }
 
 header a {
   color: #f3f3f3;
-  text-decoration: none;;
+  text-decoration: none;
 }
 
-/*
+
 img {
   width: 100%;
 }
-*/
+
 
 .image-grid {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  /*
+  
   display: flex;
   flex-wrap: wrap;
-  */
+  
 }
 
-/*
+
 .image-grid li {
   flex-grow: 2;
 }
-*/
+
 main {
   padding: 40px;
 }
@@ -61,7 +61,7 @@ main {
 
 /* Breakpoints based on Bootstrap responsive guidelines */
 /* https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
-/*
+
 @media screen and (max-width: 616px) {
   header {
     background: #ED254E;
@@ -104,4 +104,3 @@ main {
     background: #465362;
   }
 }
-*/
